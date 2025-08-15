@@ -1,0 +1,14 @@
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\bin\Debug\net9.0\GachaGame.exe
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\bin\Debug\net9.0\GachaGame.deps.json
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\bin\Debug\net9.0\GachaGame.runtimeconfig.json
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\bin\Debug\net9.0\GachaGame.dll
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\bin\Debug\net9.0\GachaGame.pdb
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\GachaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\GachaGame.AssemblyInfoInputs.cache
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\GachaGame.AssemblyInfo.cs
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\GachaGame.csproj.CoreCompileInputs.cache
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\GachaGame.dll
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\refint\GachaGame.dll
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\GachaGame.pdb
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\GachaGame.genruntimeconfig.cache
+C:\Users\Natsuki\RiderProjects\GachaGame\GachaGame\obj\Debug\net9.0\ref\GachaGame.dll

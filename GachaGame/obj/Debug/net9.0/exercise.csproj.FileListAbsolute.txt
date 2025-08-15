@@ -1,0 +1,14 @@
+C:\Users\Natsuki\RiderProjects\exercise\exercise\bin\Debug\net9.0\exercise.exe
+C:\Users\Natsuki\RiderProjects\exercise\exercise\bin\Debug\net9.0\exercise.deps.json
+C:\Users\Natsuki\RiderProjects\exercise\exercise\bin\Debug\net9.0\exercise.runtimeconfig.json
+C:\Users\Natsuki\RiderProjects\exercise\exercise\bin\Debug\net9.0\exercise.dll
+C:\Users\Natsuki\RiderProjects\exercise\exercise\bin\Debug\net9.0\exercise.pdb
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\exercise.AssemblyInfoInputs.cache
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\exercise.AssemblyInfo.cs
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\exercise.dll
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\refint\exercise.dll
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\exercise.pdb
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\exercise.genruntimeconfig.cache
+C:\Users\Natsuki\RiderProjects\exercise\exercise\obj\Debug\net9.0\ref\exercise.dll
