@@ -15,7 +15,7 @@ class WishSimulator
     {
         Console.WriteLine("How Many Wishes: 1 = one wish, 2 = ten wishes, 3 = end program");
         bool isTerminated = false;
-        
+
         while (!isTerminated)
         {
             try
@@ -45,8 +45,11 @@ class WishSimulator
 
     private static void Wish(int wishes)
     {
+        var pool = exercise.CharacterDictionary.Characters.Values.ToList();
+
         for (int i = 1; i <= wishes; i++)
         {
+            int index = random.Next(pool.Count);
             double baseRate = 0.0006;
             int pity = fivestar_pity;
             ++fourstar_pity;
@@ -59,7 +62,7 @@ class WishSimulator
             }
             else if (pity >= 90)
             {
-                baseRate = 1.0; 
+                baseRate = 1.0;
             }
 
             if (TriggerEvent(baseRate))
@@ -72,7 +75,7 @@ class WishSimulator
                 }
                 else
                 {
-                    Console.WriteLine("Wish #" + Wish_Count + " Random 5*");
+                    Console.WriteLine("Wish #" + Wish_Count + " " + pool[index].ToString());
                     fivestar_pity = 0;
                     event_pity = true;
                 }
@@ -92,7 +95,7 @@ class WishSimulator
     }
 
     private static bool TriggerEvent(double luck)
-    {   
-        return random.NextDouble() < luck;   
+    {
+        return random.NextDouble() < luck;
     }
 }
